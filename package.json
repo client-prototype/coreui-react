@@ -7,8 +7,7 @@
     "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
   },
   "repository": {
-    "type": "git",
-    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
+    "type": "git"
   },
   "license": "MIT",
   "author": "The CoreUI Team (https://github.com/orgs/coreui/people)",
@@ -49,6 +48,7 @@
     "@testing-library/user-event": "^14.4.3",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "gh-pages": "^6.1.0",
     "prettier": "2.8.8",
     "react-scripts": "5.0.1",
     "sass": "^1.63.6",

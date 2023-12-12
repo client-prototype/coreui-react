@@ -1,10 +1,10 @@
 {
-  "name": "@coreui/coreui-free-react-admin-template",
+  "name": "@coreui/coreui-react",
   "version": "4.5.0",
   "description": "CoreUI Free React Admin Template",
   "homepage": "https://client-prototype.github.io/coreui-react/",
   "bugs": {
-    "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
+    "url": "https://client-prototype.github.io/coreui-react/"
   },
   "repository": {
     "type": "git"
